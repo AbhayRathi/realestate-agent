@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain-community
+requests
+python-dotenv
+apscheduler
+beautifulsoup4 
